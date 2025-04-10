@@ -1,7 +1,9 @@
 # kr awesome-kids-ed-korea
 **전국 유치원 및 초등학교 교과목, 숙제, 준비물 정보**를 나이와 학교 기준으로 정리 하는 오픈 소스입니다. 
 부모님, 교사 , 그리고 교육에 관심 있는 누구나 함께 정보를 나누고 만들어 갈 수 있어요. 
-![썸네일](./assets/awesome-kids-ed-korea-thumbnail.png)
+<p align="center">
+  <img src="assets/awesome-kids-ed-thumbnail.png" alt="썸네일 이미지" width="600" />
+</p>
 
 --- 
 
