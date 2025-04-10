@@ -74,5 +74,4 @@
 
 ## 🙋 도움 필요하신가요?
 
-- 궁금한 점은 [Issues](https://github.com/paypulse/awesome-kids-ed-korea/issues) 탭에 자유롭게 남겨주세요.
-- PR(Pull Request)을 처음 하신다면 도와드릴게요 😊
+- 궁금한 점은 smjedu89@gmail.com으로 메일 주세요 
